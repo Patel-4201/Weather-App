@@ -1,18 +1,3 @@
-
-import googletrans
-
-
-
-# translator = translator(from_lang='en',to_lang='hi')
-
-# user_input = input("enter sentence: ")
-
-# translation = tranlator.translate(user_input)
-# print(translation)
-
-# with open ('translate.txt','w') as f:
-#   f.write(translation)
-
 import requests
 from dotenv import load_dotenv
 import os
